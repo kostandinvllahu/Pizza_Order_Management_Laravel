@@ -16,7 +16,7 @@
             </div>
         @endif
         <div class="content">
-            <img src="/pizza-house.png" alt="pizza house logo">
+            <img src="/pizza-house.png" class="logo" alt="pizza house logo">
             <div class="title m-b-md">
                 The North's Best Pizzas
             </div>

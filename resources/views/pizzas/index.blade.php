@@ -12,6 +12,7 @@
         <div class="pizza-item">
             <img src="/pizza.png" alt="pizza icon">
            <h4><a href="/pizzas/{{$pizza->id}}">{{$pizza->name}}</a></h4>
+            <h6><p>Created at-{{$pizza->created_at}}</p></h6>
         </div>
     @endforeach
 </div>

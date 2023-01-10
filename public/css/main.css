@@ -155,6 +155,11 @@ img {
     display: inline-block;
 }
 
+.logo{
+    width: 500px;
+    display: inline-block;
+}
+
 h4 {
     display: inline-block;
     font-weight: normal;
